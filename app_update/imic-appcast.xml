@@ -1,16 +1,16 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
 		<title>iMic@Yunkai app updates</title>
-		<link>https://gitee.com/s-water/vc-configer/raw/master/app_update/imic-appcast.xml</link>
+		<link>https://imic.yunk.ltd/files/appupdater/imic-appcast.xml</link>
 		<description>Appcast for iMic@Yunkai app updates.</description>
 		<language>en</language>
 		<item>
-			<title>Version 0.2.10</title>
-			<sparkle:releaseNotesLink>http://imic.yunk.ltd/files/appupdater/imic-relnotes-v0.2.10.html</sparkle:releaseNotesLink>
-			<pubDate>Sun, 23 Feb 2025 13:50:12 +0800</pubDate>
-			<enclosure url="https://imic.yunk.ltd/files/app/Yunkai%20iMic-netsetup-v0.2.10.1-20250223132246.exe"
-				sparkle:version="0.2.10" sparkle:dsaSignature="MDwCHBdrDrcokZ1zcHcrsvtKXzvorhA76M3CGs0vuXoCHGWS3h+1umC3R8PaKQdk
-09VHlhbs8kuXcAmjIS0=" type="application/octet-stream"/>
+			<title>Version 0.3.3</title>
+			<sparkle:releaseNotesLink>https://imic.yunk.ltd/files/appupdater/imic-relnotes-v0.3.3.html</sparkle:releaseNotesLink>
+			<pubDate>Sun, 16 Mar 2025 05:50:12 +0800</pubDate>
+			<enclosure url="https://imic.yunk.ltd/files/app/Yunkai%20iMic-netsetup.exe"
+				sparkle:version="0.3.3" sparkle:dsaSignature="MDwCHEhBrPqo68LE7tX+KbrL3RrwidnJ2hmGWgOQ8YkCHDRHy3rzAv6/161g+zt/
+eLXrPl5mag56+vqh1+M=" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
