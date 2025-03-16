@@ -9,8 +9,8 @@
 			<sparkle:releaseNotesLink>https://imic.yunk.ltd/files/appupdater/imic-relnotes-v0.3.3.html</sparkle:releaseNotesLink>
 			<pubDate>Mon, 17 Mar 2025 01:20:12 +0800</pubDate>
 			<enclosure url="https://imic.yunk.ltd/files/app/Yunkai%20iMic-netsetup.exe"
-				sparkle:version="0.3.3" sparkle:dsaSignature="MDwCHFhr4I+S5L2v9dgdZp262yPoyisL/jh6bx3OwBoCHEUhm21DcToID/ST6Fld
-HQuaTyJ68/xCyKPcyN0=" type="application/octet-stream"/>
+				sparkle:version="0.3.3" sparkle:dsaSignature="MD0CHEjXpj6yeJnOuzKwLox8FMJluEcnq6oKtpNouVUCHQCqEQQVhjKUCBhvccD3
+gs7tDSsAnYtSvo1LPX4t" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
