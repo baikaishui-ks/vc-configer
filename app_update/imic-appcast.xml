@@ -7,10 +7,10 @@
 		<item>
 			<title>Version 0.3.3</title>
 			<sparkle:releaseNotesLink>https://imic.yunk.ltd/files/appupdater/imic-relnotes-v0.3.3.html</sparkle:releaseNotesLink>
-			<pubDate>Sun, 16 Mar 2025 05:50:12 +0800</pubDate>
+			<pubDate>Mon, 17 Mar 2025 01:20:12 +0800</pubDate>
 			<enclosure url="https://imic.yunk.ltd/files/app/Yunkai%20iMic-netsetup.exe"
-				sparkle:version="0.3.3" sparkle:dsaSignature="MDwCHEhBrPqo68LE7tX+KbrL3RrwidnJ2hmGWgOQ8YkCHDRHy3rzAv6/161g+zt/
-eLXrPl5mag56+vqh1+M=" type="application/octet-stream"/>
+				sparkle:version="0.3.3" sparkle:dsaSignature="MDwCHFhr4I+S5L2v9dgdZp262yPoyisL/jh6bx3OwBoCHEUhm21DcToID/ST6Fld
+HQuaTyJ68/xCyKPcyN0=" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
