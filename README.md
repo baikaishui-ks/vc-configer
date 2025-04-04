@@ -14,4 +14,8 @@ git push前需要创建一个虚拟代理，如下：
 ```shell
 eval $(ssh-agent -s)
 ssh-add ~/.ssh/github-baikaishui.priv
+
+git add xxx.file
+git commit -m "add v0.3.5"
+git push origin master
 ```
