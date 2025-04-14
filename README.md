@@ -17,5 +17,5 @@ ssh-add ~/.ssh/github-baikaishui.priv
 
 git add xxx.file
 git commit -m "add v0.3.5"
-git push origin master
+git push origin main
 ```
