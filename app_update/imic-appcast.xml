@@ -5,12 +5,12 @@
 		<description>Appcast for iMic@Yunkai app updates.</description>
 		<language>en</language>
 		<item>
-			<title>Version 0.3.5</title>
-			<sparkle:releaseNotesLink>https://imic.yunk.ltd/files/appupdater/imic-relnotes-v0.3.5.html</sparkle:releaseNotesLink>
-			<pubDate>Tue, 24 Jun 2025 23:40:12 +0800</pubDate>
+			<title>Version 0.3.6</title>
+			<sparkle:releaseNotesLink>https://imic.yunk.ltd/files/appupdater/imic-relnotes-v0.3.6.html</sparkle:releaseNotesLink>
+			<pubDate>Sun, 22 Mar 2026 16:40:12 +0800</pubDate>
 			<enclosure url="https://imic.yunk.ltd/files/app/Yunkai%20iMic-netsetup.exe"
-				sparkle:version="0.3.5" sparkle:dsaSignature="MD4CHQCje4e4LGW92po66anBJWBwXx4gMFNI0IFMuRfzAh0AgnG5gbCTXIGykVv6
-xruweKG7NFQpe6SZp8UsFQ==" type="application/octet-stream"/>
+				sparkle:version="0.3.6" sparkle:dsaSignature="MD4CHQCdRCZD9Yk1z67cjRdEnfDFTimslxXINAwRwhGpAh0Al9NW8pDbkV/Dyri9
+5W7FNHDnoG1NVTohlWxa/w==" type="application/octet-stream"/>
 		</item>
 	</channel>
 </rss>
