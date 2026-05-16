@@ -13,7 +13,8 @@ git push前需要创建一个虚拟代理，如下：
 
 ```shell
 eval $(ssh-agent -s)
-ssh-add ~/.ssh/github-baikaishui.priv
+ssh-add /c/Users/Administrator/.ssh/github-baikaishui.priv
+# 找不到密钥，在 personal-collection-gitee\其他\secrets\github 中找
 
 git add xxx.file
 git commit -m "add v0.3.5"
